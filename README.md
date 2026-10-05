@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vedant-zeus/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/vedant-zeus/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
