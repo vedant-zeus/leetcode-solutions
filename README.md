@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0100-same-tree) |
 | [1096-brace-expansion-ii](https://github.com/vedant-zeus/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
@@ -93,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
