@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0069-sqrtx) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vedant-zeus/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0410-split-array-largest-sum](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vedant-zeus/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
