@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0069-sqrtx) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vedant-zeus/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [1096-brace-expansion-ii](https://github.com/vedant-zeus/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Backtracking
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
