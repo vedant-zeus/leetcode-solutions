@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0229-majority-element-ii](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vedant-zeus/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Quicksort
 |  |
 | ------- |
@@ -127,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0043-multiply-strings) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
