@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [1096-brace-expansion-ii](https://github.com/vedant-zeus/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Backtracking
