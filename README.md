@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [1096-brace-expansion-ii](https://github.com/vedant-zeus/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vedant-zeus/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/vedant-zeus/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
